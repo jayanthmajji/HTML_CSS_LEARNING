@@ -1,0 +1,28 @@
+.body{
+    margin: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.img-vk{
+    width: 396px;
+    line-height: 100px;
+}
+
+.card{
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid royalblue;
+    padding: 0px;
+    display: block;
+    text-align: center;
+    background: sandybrown;
+    color:brown;
+    border-bottom: 4px solid brown;
+
+
+}
+
+.border-k{
+    border: 2px solid brown;
+}

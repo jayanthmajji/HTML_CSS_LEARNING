@@ -1,0 +1,26 @@
+body{
+    background-image: url("images/beach.jpg");
+    background-size: cover;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 4px -4px whitesmoke;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#logo{
+    width: 100px;
+}
+
+.btn{
+    padding: 5px 9px;
+    margin: 1 auto;
+    border: 1px solid;
+    border-radius: none;
+    font-family: inherit;
+}
+
+.underline{
+    border-bottom: 4px solid;
+}
+
